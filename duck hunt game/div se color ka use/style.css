@@ -1,0 +1,133 @@
+@charset"utf-8";
+
+.page{
+	width:300px;
+	height:200px;
+	border:1px solid #ccc;
+
+}
+.one{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:red;    
+}
+
+.two{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:green;    
+}
+
+.three{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:blue;    
+}
+
+
+.four{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:orange;    
+}
+
+
+.five{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:yellow;    
+}
+
+
+.six{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:pink;    
+}
+
+
+.seven{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:purple;
+	margin-top:10px;     
+}
+
+.eight{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:skyblue;
+	margin-top:10px;     
+}
+
+
+.nive{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:darkred;
+	margin-top:10px;     
+}
+
+.ten{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:darkorange;
+	margin-top:10px;     
+}
+
+
+.eleone{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:darkblue;
+	margin-top:10px;     
+}
+
+
+.twell{
+	width:30px;
+	height:30px;
+	float:left; 
+	margin-left:15px; 
+	background:gold;
+	margin-top:10px;     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
